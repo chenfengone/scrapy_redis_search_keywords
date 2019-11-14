@@ -1,0 +1,1 @@
+scrapy runspider ./example/spiders/siafspider_redis.py
